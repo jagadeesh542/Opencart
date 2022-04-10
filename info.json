@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "john",
+      "location": "india",
+      "phone": "7894561230",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "smith",
+      "location": "india",
+      "phone": "1234567890",
+      "courses": [
+        "AWS",
+        "selenium"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "jimmy",
+      "location": "india",
+      "phone": "7894561230",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    }
+  ]
+}
